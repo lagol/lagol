@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lagol
-- 👀 I’m interested in Programming in LiveCode, Java, Bash, HTML and CSS and playing Minecraft
-- 🌱 I’m currently learning Swift and Java
+- 👀 I’m interested in programming in Java and playing Minecraft
+- 🌱 I’m currently learning Java
 - 📫 How to reach me: Write me an email to [github@maxjacobi.com](mailto:github@maxjacobi.com)
 
 <!---
